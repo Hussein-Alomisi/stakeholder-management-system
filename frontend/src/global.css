@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: "Cairo", "Tajawal", sans-serif;
+  direction: rtl;
+  background-color: #f8fafc;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a:hover {
+  background-color: #1e293b;
+  color: #38bdf8;
+}
+
+input, button, select,  textarea {
+  font-family: "Cairo", "Tajawal", sans-serif;
+}
+
+
