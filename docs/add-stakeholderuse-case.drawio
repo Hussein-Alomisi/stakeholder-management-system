@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram id="yx2BsdIj7tgihgKmMO27" name="Page-1">
+        <mxGraphModel dx="828" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="60" width="370" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="170" width="70" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;User&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="310" width="60" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Stakeholder Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="80" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Check Permission" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="280" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;add stakeholder&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="195" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="10" target="11">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="310" as="sourcePoint"/>
+                        <mxPoint x="450" y="260" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="335" y="250" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Validate Data&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="130" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="170" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="11" target="23">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="310" as="sourcePoint"/>
+                        <mxPoint x="450" y="260" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
