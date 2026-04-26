@@ -124,4 +124,4 @@ The system utilizes a **MySQL** relational database to ensure data integrity and
 Currently, the primary entity is the **Stakeholders** table, which stores essential contact and organizational details. As the system scales to include groups, interactions, and issues, the schema will expand using relational mapping to connect these entities seamlessly.
 
 ---
-*Designed with ❤️ for better project management.*
+*Designed with ❤️ by Hussein Alomisi.*
